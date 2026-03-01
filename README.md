@@ -18,9 +18,7 @@ It is important to keep customers satisfied so that they return and buy from the
 the site to sell their products and keep the business operating. Analyzing the data is a critical part in solving these issues. 
 
 
-
-
- # [Project 2: Billboard Hot 100 Year End Charts Analysis (2020-2024)](https://github.com/A1jandro-Jimenez/Billboard_Hot_100)
+# [Project 2: Billboard Hot 100 Year End Charts Analysis (2020-2024)](https://github.com/A1jandro-Jimenez/Billboard_Hot_100)
 
  
 ## Background
