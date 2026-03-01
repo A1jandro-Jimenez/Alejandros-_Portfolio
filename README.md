@@ -1,13 +1,15 @@
 
-
 # [Project 1: Brazilian-_E-Commerce_Analytics-_Project](https://github.com/A1jandro-Jimenez/Brazilian-_E-Commerce_Analytics-_Project)
-
-<img src="Portfolio Pics/Olist_Report.png" width="500">
-
+<div align="center">
+<img src="Portfolio Pics/Olist_Report.png" width="400">
+</div>
 
 End-to-end e-commerce analytics project analyzing delivery performance, customer satisfaction, and revenue risk using Python, SQL, statistical modeling, and Power BI.
+
+
 ## Business Problem
 Often times e-commerce companies face customer churn driven by delayed deliveries. This project analyzes how delivery performance impacts customer satisfaction and revenue risk. 
+
 
 ### Project Goal: How do delivery performance and order characteristics affect customer satisfaction?
 A few questions were created to achieve our goal and be more focused on the type of data needed to be analyzed. The main question was: **Do delivery delays lead to lower customer review scores?** To help support and answer this question, 
@@ -19,11 +21,15 @@ A few questions were created to achieve our goal and be more focused on the type
 
 # [Project 2: Billboard_Hot_100](https://github.com/A1jandro-Jimenez/Billboard_Hot_100)
 
-
+<div align="center">
 <img src="Portfolio Pics/Billboard Dashboard.png" width="800">
+</div>
+
 
 ## Background
 The *Billboard* Hot 100 Year End Chart is an annual list of the 100 most successful songs throughout the year in the Unitied States published by *Billboard* magazine and compiled by Nielsen SoundScan. Each week information about a single's physical and digital sales, as well as airplay and streaming is collected and used to determined its ranking on the weekly chart. At the end of each year, a list is published based on that year's best performing songs.
+
+
 ## Project Goals
 When creating the project, I had the following goals in mind that I wanted to achive:
 * Gather interesting/insightful information about the different songs and artists appearing on each year's chart. (i.e., Which artists appear the most?)
