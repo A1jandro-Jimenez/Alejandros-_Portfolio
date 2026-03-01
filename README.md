@@ -40,6 +40,6 @@ of having having a hit single or sign the next big artist all from analyzing the
 
 <div align="center">
 
-![](https://github.com/A1jandro-Jimenez/Billboard_Hot_100)
+![](https://github.com/A1jandro-Jimenez/Alejandros-_Portfolio/blob/main/Portfolio%20Pics/Billboard%20Dashboard.png)
 
 </div>
