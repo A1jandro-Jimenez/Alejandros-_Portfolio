@@ -20,11 +20,6 @@ the site to sell their products and keep the business operating. Analyzing the d
 
 
 
-![](https://github.com/A1jandro-Jimenez/Alejandros-_Portfolio/blob/main/Portfolio%20Pics/Olist_Report.png)
-
-
-
-
  # [Project 2: Billboard Hot 100 Year End Charts Analysis (2020-2024)](https://github.com/A1jandro-Jimenez/Billboard_Hot_100)
 
  
@@ -41,5 +36,4 @@ of having having a hit single or sign the next big artist all from analyzing the
 
 
 
-![](https://github.com/A1jandro-Jimenez/Alejandros-_Portfolio/blob/main/Portfolio%20Pics/Billboard%20Dashboard.png)
 
