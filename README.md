@@ -18,7 +18,7 @@ It is important to keep customers satisfied so that they return and buy from the
 the site to sell their products and keep the business operating. Analyzing the data is a critical part in solving these issues. 
 
 
-![](/Portfolio Pics/Billboard Dashboard.png)
+![](https://github.com/A1jandro-Jimenez/Alejandros-_Portfolio/blob/main/Portfolio%20Pics/Billboard%20Dashboard.png)
 
 # [Project 2: Billboard_Hot_100](https://github.com/A1jandro-Jimenez/Billboard_Hot_100)
 
