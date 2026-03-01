@@ -18,15 +18,16 @@ It is important to keep customers satisfied so that they return and buy from the
 the site to sell their products and keep the business operating. Analyzing the data is a critical part in solving these issues. 
 
 
-<div align="center">
+
 
 ![](https://github.com/A1jandro-Jimenez/Alejandros-_Portfolio/blob/main/Portfolio%20Pics/Olist_Report.png)
 
-</div>
 
 
 
  # [Project 2: Billboard Hot 100 Year End Charts Analysis (2020-2024)](https://github.com/A1jandro-Jimenez/Billboard_Hot_100)
+
+ 
 ## Background
 The *Billboard* Hot 100 Year End Chart is an annual list of the 100 most successful songs throughout the year in the Unitied States published by *Billboard* magazine and compiled by Nielsen SoundScan. Each week information about a single's physical and digital sales, as well as airplay and streaming is collected and used to determined its ranking on the weekly chart. At the end of each year, a list is published based on that year's best performing songs.
 ## Project Goals
@@ -39,8 +40,6 @@ With these findings, not only artists, but also record labels and others in the 
 of having having a hit single or sign the next big artist all from analyzing the most sucessful songs of the past few years. 
 
 
-<div align="center">
 
 ![](https://github.com/A1jandro-Jimenez/Alejandros-_Portfolio/blob/main/Portfolio%20Pics/Billboard%20Dashboard.png)
 
-</div>
