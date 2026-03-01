@@ -17,10 +17,10 @@ A few questions were created to achieve our goal and be more focused on the type
 It is important to keep customers satisfied so that they return and buy from the site but also spend larger amounts in order for revenue to increase. Sellers also need to be content so they too will keep on using
 the site to sell their products and keep the business operating. Analyzing the data is a critical part in solving these issues. 
 
+# [Project 2: Billboard_Hot_100](https://github.com/A1jandro-Jimenez/Billboard_Hot_100)
 
 ![](https://github.com/A1jandro-Jimenez/Alejandros-_Portfolio/blob/main/Portfolio%20Pics/Billboard%20Dashboard.png)
 
-# [Project 2: Billboard_Hot_100](https://github.com/A1jandro-Jimenez/Billboard_Hot_100)
 
 ## Background
 The *Billboard* Hot 100 Year End Chart is an annual list of the 100 most successful songs throughout the year in the Unitied States published by *Billboard* magazine and compiled by Nielsen SoundScan. Each week information about a single's physical and digital sales, as well as airplay and streaming is collected and used to determined its ranking on the weekly chart. At the end of each year, a list is published based on that year's best performing songs.
