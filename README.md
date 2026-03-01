@@ -1,8 +1,5 @@
 
 # [Project 1: Brazilian-_E-Commerce_Analytics-_Project](https://github.com/A1jandro-Jimenez/Brazilian-_E-Commerce_Analytics-_Project)
-<div align="center">
-<img src="Portfolio Pics/Olist_Report.png" width="400">
-</div>
 
 End-to-end e-commerce analytics project analyzing delivery performance, customer satisfaction, and revenue risk using Python, SQL, statistical modeling, and Power BI.
 
@@ -19,12 +16,13 @@ A few questions were created to achieve our goal and be more focused on the type
 3. Do higher-priced orders get better reviews? 
 
 
-# [Project 2: Billboard_Hot_100](https://github.com/A1jandro-Jimenez/Billboard_Hot_100)
-
 <div align="center">
-<img src="Portfolio Pics/Billboard Dashboard.png" width="800">
+<img src="Portfolio Pics/Olist_Report.png" width="400">
 </div>
 
+
+
+# [Project 2: Billboard_Hot_100](https://github.com/A1jandro-Jimenez/Billboard_Hot_100)
 
 ## Background
 The *Billboard* Hot 100 Year End Chart is an annual list of the 100 most successful songs throughout the year in the Unitied States published by *Billboard* magazine and compiled by Nielsen SoundScan. Each week information about a single's physical and digital sales, as well as airplay and streaming is collected and used to determined its ranking on the weekly chart. At the end of each year, a list is published based on that year's best performing songs.
@@ -40,5 +38,7 @@ With these findings, not only artists, but also record labels and others in the 
 of having having a hit single or sign the next big artist all from analyzing the most sucessful songs of the past few years. 
 
 
-
+<div align="center">
+<img src="Portfolio Pics/Billboard Dashboard.png" width="600">
+</div>
 
