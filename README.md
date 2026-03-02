@@ -42,3 +42,7 @@ of having hit singles or sign the next big artist all from analyzing the most su
 <img src="Portfolio Pics/Billboard Dashboard.png" width="600">
 </div>
 
+
+# [Project 3: A Comparative Study Between MATLAB and Python for Scientific Computing](https://www.overleaf.com/read/gjgrfbkbbcpj#1c33ad)
+## Abstract
+Today, two of the most popular programming languages for scientists and engineers are Python and MATLAB. In this paper I provide a brief comparison between some of the built in functions/tools to use for various scientific computing topics available both in MATLAB and in Python. After examining the different tools found in both languages, a brief analysis of the advantages and disadvantages of both was made. Overall after comparing both, it was determined that in order to determine which language one should use, it is really all down to personal preference as well as other factors like financial need and experience with programming. 
