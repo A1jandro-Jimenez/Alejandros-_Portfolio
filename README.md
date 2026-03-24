@@ -1,5 +1,22 @@
+# [Project 1: 🚕 Taxi_Ride_Data_Warehouse_2025](https://github.com/A1jandro-Jimenez/Taxi_Ride_Data_Warehouse_2025)
 
-# [Project 1: Brazilian-E-Commerce Analytics Project](https://github.com/A1jandro-Jimenez/Brazilian-_E-Commerce_Analytics-_Project)
+## 📌 Overview
+This project builds an end-to-end **data warehouse (lakehouse)** for analyzing taxi trip data from the NYC Taxi and Limousine Commission (TLC) using Spark Declarative Pipelines (SDP) in Databricks.
+
+The pipeline transforms raw trip data into **analytics-ready tables and dashboards**, following the **Medallion Architecture (Bronze → Silver → Gold)**.
+
+---
+
+## 🎯 Objectives
+- Build a scalable ETL pipeline using PySpark and SDP
+- Clean and validate raw taxi data  
+- Design a **star schema data warehouse**  
+- Generate business insights through SQL and dashboards  
+- Implement **data quality monitoring (bonus feature)**  
+
+---
+
+# [Project 2: Brazilian-E-Commerce Analytics Project](https://github.com/A1jandro-Jimenez/Brazilian-_E-Commerce_Analytics-_Project)
 
 End-to-end e-commerce analytics project analyzing delivery performance, customer satisfaction, and revenue risk using Python, SQL, statistical modeling, and Power BI.
 
@@ -20,9 +37,9 @@ A few questions were created to achieve our goal and be more focused on the type
 <img src="Portfolio Pics/Olist_Report.png" width="400">
 </div>
 
+---
 
-
-# [Project 2: Billboard Hot 100 Analysis ](https://github.com/A1jandro-Jimenez/Billboard_Hot_100)
+# [Project 3: Billboard Hot 100 Analysis ](https://github.com/A1jandro-Jimenez/Billboard_Hot_100)
 
 ## Background
 The *Billboard* Hot 100 Year End Chart is an annual list of the 100 most successful songs throughout the year in the United States published by *Billboard* magazine and compiled by Nielsen SoundScan. Each week information about a single's physical and digital sales, as well as airplay and streaming is collected and used to determine its ranking on the weekly chart. At the end of each year, a list is published based on that year's best performing songs.
@@ -43,11 +60,3 @@ of having hit singles or sign the next big artist all from analyzing the most su
 </div>
 
 
-# [Project 3: A Comparative Study Between MATLAB and Python for Scientific Computing](https://www.overleaf.com/read/gjgrfbkbbcpj#1c33ad)
-## Abstract
-Today, two of the most popular programming languages for scientists and engineers are Python and MATLAB. In this paper I provide a brief comparison between some of the built in functions/tools to use for various scientific computing topics available both in MATLAB and in Python. After examining the different tools found in both languages, a brief analysis of the advantages and disadvantages of both was made. Overall after comparing both, it was determined that in order to determine which language one should use, it is really all down to personal preference as well as other factors like financial need and experience with programming. 
-
-
-<div align="center">
-<img src="Portfolio Pics/Senior_Project_First_Page.png" width="400">
-</div>
