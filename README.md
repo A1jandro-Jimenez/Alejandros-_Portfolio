@@ -5,7 +5,7 @@ This project builds an end-to-end **data warehouse (lakehouse)** for analyzing t
 
 The pipeline transforms raw trip data into **analytics-ready tables and dashboards**, following the **Medallion Architecture (Bronze → Silver → Gold)**.
 
----
+
 
 ## 🎯 Objectives
 - Build a scalable ETL pipeline using PySpark and SDP
@@ -13,6 +13,17 @@ The pipeline transforms raw trip data into **analytics-ready tables and dashboar
 - Design a **star schema data warehouse**  
 - Generate business insights through SQL and dashboards  
 - Implement **data quality monitoring (bonus feature)**  
+
+
+<div align="center">
+<img src="Portfolio Pics/taxidb_arch.png" width="1000">
+</div>
+
+
+<div align="center">
+<img src="Portfolio Pics/Taxi_Pipeline.png" width="1000">
+</div>
+
 
 ---
 
