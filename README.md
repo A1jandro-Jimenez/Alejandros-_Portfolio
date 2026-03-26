@@ -21,7 +21,7 @@ The pipeline transforms raw trip data into **analytics-ready tables and dashboar
 
 
 <div align="center">
-<img src="Portfolio Pics/Taxi_Pipeline.png" width="1000">
+<img src="Portfolio Pics/Taxi_Pipeline.png" width="900">
 </div>
 
 
