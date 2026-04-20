@@ -1,3 +1,6 @@
+Hello! My name is Alejandro. I am aspiring to grow as a Data Analyst/Engineer, leveraging tools such as Python, SQL, and Excel to turn raw data into meaningful stories that inform decision-making. This portfolio showcases some of my skills and the knowledge that I have aquired over the past few years. Feel free to click on the their title to learn more about each project. Thank You!
+
+
 # [Project 1: 🚕 Taxi_Ride_Data_Warehouse_2025](https://github.com/A1jandro-Jimenez/Taxi_Ride_Data_Warehouse_2025)
 
 ## 📌 Overview
