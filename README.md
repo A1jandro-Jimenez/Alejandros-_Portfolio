@@ -1,4 +1,4 @@
-Hello! My name is Alejandro. I am an aspiring Data Analyst/Engineer, leveraging tools such as Python, SQL, and Excel to turn raw data into meaningful stories that inform decision-making. This portfolio showcases some of my skills and the knowledge that I have aquired over the past few years. Feel free to click on the their title to learn more about each project. Thank You!
+Hello! My name is Alejandro. I am an aspiring Data Analyst/Engineer, leveraging tools such as Python, SQL, and Excel to turn raw data into meaningful stories that inform decision-making. This portfolio showcases some of my skills and the knowledge that I have aquired over the past few years. Feel free to click on a title to learn more about each project. Thank You!
 
 --- 
 
