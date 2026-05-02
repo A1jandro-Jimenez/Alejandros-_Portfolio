@@ -32,6 +32,11 @@ For this project, real-time analysis was the main focus as the data provided inf
 </div>
 
 
+<div align="center">
+<img src="Portfolio Pics/JSON_Ecommerce_dashboard.png" width="600">
+</div>
+
+
 ---
 
 # [Project 2: 🚕 Taxi_Ride_Data_Warehouse_2025](https://github.com/A1jandro-Jimenez/Taxi_Ride_Data_Warehouse_2025)
