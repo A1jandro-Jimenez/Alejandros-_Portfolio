@@ -28,8 +28,10 @@ For this project, real-time analysis was the main focus as the data provided inf
 
 
 <div align="center">
-<img src="images/ELT_Pipeline.png" width="800">
+<img src="Portfolio Pics/ELT_Pipeline.png" width="600">
 </div>
+
+
 ---
 
 # [Project 2: 🚕 Taxi_Ride_Data_Warehouse_2025](https://github.com/A1jandro-Jimenez/Taxi_Ride_Data_Warehouse_2025)
