@@ -68,7 +68,7 @@ The pipeline transforms raw trip data into **analytics-ready tables and dashboar
 
 ---
 
-# [Project 2: Brazilian-E-Commerce Analytics Project](https://github.com/A1jandro-Jimenez/Brazilian-_E-Commerce_Analytics-_Project)
+# [Project 3: Brazilian-E-Commerce Analytics Project](https://github.com/A1jandro-Jimenez/Brazilian-_E-Commerce_Analytics-_Project)
 
 End-to-end e-commerce analytics project analyzing delivery performance, customer satisfaction, and revenue risk using Python, SQL, statistical modeling, and Power BI.
 
@@ -91,7 +91,7 @@ A few questions were created to achieve our goal and be more focused on the type
 
 ---
 
-# [Project 3: Billboard Hot 100 Analysis ](https://github.com/A1jandro-Jimenez/Billboard_Hot_100)
+# [Project 4: Billboard Hot 100 Analysis ](https://github.com/A1jandro-Jimenez/Billboard_Hot_100)
 
 ## Background
 The *Billboard* Hot 100 Year End Chart is an annual list of the 100 most successful songs throughout the year in the United States published by *Billboard* magazine and compiled by Nielsen SoundScan. Each week information about a single's physical and digital sales, as well as airplay and streaming is collected and used to determine its ranking on the weekly chart. At the end of each year, a list is published based on that year's best performing songs.
