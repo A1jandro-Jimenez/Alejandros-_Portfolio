@@ -1,7 +1,38 @@
-Hello! My name is Alejandro. I am aspiring to grow as a Data Analyst/Engineer, leveraging tools such as Python, SQL, and Excel to turn raw data into meaningful stories that inform decision-making. This portfolio showcases some of my skills and the knowledge that I have aquired over the past few years. Feel free to click on the their title to learn more about each project. Thank You!
+Hello! My name is Alejandro. I am an aspiring Data Analyst/Engineer, leveraging tools such as Python, SQL, and Excel to turn raw data into meaningful stories that inform decision-making. This portfolio showcases some of my skills and the knowledge that I have aquired over the past few years. Feel free to click on the their title to learn more about each project. Thank You!
+
+--- 
+
+# [Project 1: 🛒 Modern_E-commerce_Lakehouse](https://github.com/A1jandro-Jimenez/modern-lakehouse-ecommerce-project)
+## 📌 Overview
+
+With the rise of cloud providers like Azure, AWS, and Google Cloud, many companies and enterprises have adopted this new modern architecture called 
+a data lakehouse. 
+
+The goal of a data lakehouse is to provide a reliable, scalable, cost-efficient, single unified source of truth. It combines the low cost cloud object storage
+like (like S3 or ADLS) with the high-performance management and governance of a data warehouse in order to achive its goal. 
+
+It is designed to eliminate the need for maintaining two separate, 
+siloed systems, allowing you to run both business intelligence (BI) and machine learning (ML) on a single platform. 
+
+Lakehouses are great for e-commerce because they can be used to analyze real-time and historical data in order to optimize supply chains and inventory management, but can also support advanced machine learning for 
+recommendation engines and predictive demand forecasting.
+
+For this project, real-time analysis was the main focus as the data provided information about items shoppers were currently buying. 
+
+## 🎯 Objectives
+- Build a free and scalable ELT pipeline on local machine
+- Automate and Orchestrate pipeline using Airflow
+- Provide quality checks throughout transfomations and stages
+- Design a star schema data warehouse ready for BI
+- Generate business insights through SQL and dashboards
 
 
-# [Project 1: 🚕 Taxi_Ride_Data_Warehouse_2025](https://github.com/A1jandro-Jimenez/Taxi_Ride_Data_Warehouse_2025)
+<div align="center">
+<img src="images/ELT_Pipeline.png" width="800">
+</div>
+---
+
+# [Project 2: 🚕 Taxi_Ride_Data_Warehouse_2025](https://github.com/A1jandro-Jimenez/Taxi_Ride_Data_Warehouse_2025)
 
 ## 📌 Overview
 This project builds an end-to-end **data warehouse (lakehouse)** for analyzing taxi trip data from the NYC Taxi and Limousine Commission (TLC) using Spark Declarative Pipelines (SDP) in Databricks.
